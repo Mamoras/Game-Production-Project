@@ -1,0 +1,5 @@
+﻿  Scene0.cpp
+  SceneManager.cpp
+  Generating Code...
+Scene0.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Scene0::Render(void)const " (?Render@Scene0@@UBEXXZ)
+D:\GameProduction\Game-Production-Project\ComponentFramework20.0.0\Debug\ComponentFramework.exe : fatal error LNK1120: 1 unresolved externals

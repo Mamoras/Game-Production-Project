@@ -31,7 +31,7 @@ void Scene0::HandleEvents(const SDL_Event& sdlEvent) {}
 
 void Scene0::Update(const float deltaTime) {}
 
-void Scene::Render() const {
+void Scene0::Render() const {
 	glEnable(GL_DEPTH_TEST);
 	glEnable(GL_CULL_FACE);
 	/// Clear the screen
